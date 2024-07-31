@@ -10,6 +10,7 @@
       <Button label="Discover Odysen" severity="secondary"/>
       <Button label="Watch the trailer"/>
     </div>
+    <h2 class="text-3xl underline font-bold">hello</h2>
   </div>
   <!-- <Button>hi i got primevue to work</Button> -->
 </template>
